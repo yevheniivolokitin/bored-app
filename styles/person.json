@@ -1,0 +1,20 @@
+[
+    {
+    "name": "Jenya",
+    "age":"19",
+    "gender": "male",
+    "hobbies": [
+        "work",
+        "stady",
+        "walking"
+    ]},
+    {
+        "name": "Valera",
+        "age":"23",
+        "gender": "male",
+        "hobbies": [
+            "gym",
+            "alcohol",
+            "smock "
+        ]}
+]
